@@ -3,4 +3,6 @@ Visualizes dataset of Literacy rate status from [Open Data Nepal](http://data.op
 
 >This data set includes literacy rate status by age group 15-24  by literate population and total population for 2013. The data is extracted from Literacy Status Report 2013 submitted to UNESCO Kathmandu .
 
-
+## Literacy rate for various Development Regions
+## Literacy rate for various districts of Central Region
+## Geographical Region-wise Literacy rate plot
